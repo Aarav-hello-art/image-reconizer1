@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(to right bottom, #c75c9e, #bf59a7, #b557b0, #a856b9, #9857c3, #806bda, #5b7dec, #008efa, #00afff, #00cbff, #00e4f9, #5ffbed);
+    font-family: 'Lobster', cursive;
+}
+
+#heading{
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 30px;
+    color: cadetblue;
+}
+
+#objects{
+    color:lightpink;
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+
+hr{
+    width: 200px;
+}
+
+#identify,#captureimg{
+font-size : 18px;
+}
+
+label{
+    font-size: 20px;
+}
+
+#camera,#snapshot{
+    border: 2px double whitesmoke;
+    width : 300px;
+    height : 300px;
+}
+
+#objectresult,#accuracyresult{
+    font-size: 25px;
+    color:darkmagenta;
+}
